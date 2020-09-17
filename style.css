@@ -1,0 +1,15 @@
+body {
+    background-color: cadetblue;
+    color: #000;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 2rem
+
+}
+
+#button {
+    background-color: yellow;
+    color: tomato;
+    font-size: 28px;
+    padding: 5px;
+}
