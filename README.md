@@ -6,3 +6,5 @@ The user is given 75 seconds to start out with, and each wrong answer results in
 To start the quiz, the user clicks the "Start Quiz" button on the landing page. Once the quiz is started, the user is presented with a question, along with 4 possible answers.  Upon clicking one of the possible answers, the app will tell the user whether their answer was correct or not, deduct 15 seconds from the remaining time if incorrect, then load the next question
 
 Once the final question is answered, the user's final score is shown, and a prompt is given for the user to enter their initials.  When the "Submit" button is clicked, the initials and score are saved to local storage, so even after the browser is refreshed the score will be saved.  The list of saved scores can be seen by clicking the "View High Scores" button.
+
+Link to deployed site: https://petar85.github.io/Slagalica/
