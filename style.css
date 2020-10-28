@@ -1,15 +1,9 @@
 body {
-    background-color: cadetblue;
-    color: #000;
-    font-size: 20px;
-    font-weight: bolder;
-    margin-left: 2rem
-
+    background-image: url("assets/5029521_slagalicajpg.jpg");
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
-#button {
-    background-color: yellow;
-    color: tomato;
-    font-size: 28px;
-    padding: 5px;
+.navbar-container {
+    max-width: none;
 }
